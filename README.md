@@ -1,2 +1,2 @@
 # Lynx-tournament-scoring-system
-A project to make a tournamanent scoring system for a school sports event. It is a guided project made with C#.
+A project to make a tournament scoring system for a school sports event. It is a guided project made with C#.
